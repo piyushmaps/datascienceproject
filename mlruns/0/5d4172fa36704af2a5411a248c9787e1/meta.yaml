@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/datascienceproject/mlruns/0/5d4172fa36704af2a5411a248c9787e1/artifacts
+end_time: 1741717148579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d4172fa36704af2a5411a248c9787e1
+run_name: bright-finch-700
+run_uuid: 5d4172fa36704af2a5411a248c9787e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741717148514
+status: 4
+tags: []
+user_id: piyush thakur
